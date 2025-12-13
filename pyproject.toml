@@ -1,0 +1,14 @@
+[project]
+name = "poc-agentic-ai"
+version = "1.0.0-alpha"
+description = ""
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "langchain>=1.2.3",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.7",
+    "pdfplumber>=0.11.9",
+    "pypdf>=6.6.0",
+]
